@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oplus-config>
+  <!-- Add for apk downgrade check -->
+  <package-name name="com.oneplus.filemanager" />
+  <package-uri name="content://cn.oneplus.filemanager.uninstall" />
+</oplus-config>

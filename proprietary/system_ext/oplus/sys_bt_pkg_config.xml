@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="share_package_name">com.coloros.oshare</string>
+  <string name="pods_package_name">com.coloros.oppopods</string>
+  <string name="pods_weakcheck_url">com.coloros.oppopods.providers.OppoPodsProvider</string>
+</resources>
